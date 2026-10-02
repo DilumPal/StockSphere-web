@@ -10,7 +10,7 @@ namespace StockSphere.Api.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-[Authorize]
+// [Authorize]
 public class SalesOrdersController : ControllerBase
 {
     private readonly AppDbContext _context;

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="StockSphere.Api/StockSphere.Api.csproj" />
+  <Project Path="StockSphere.Core/StockSphere.Core.csproj" />
+  <Project Path="StockSphere.Infrastructure/StockSphere.Infrastructure.csproj" />
+</Solution>

@@ -1,0 +1,8 @@
+[Bb]in/
+[Oo]bj/
+*.user
+*.userprefs
+*.suo
+.vs/
+.vscode/
+appsettings.Development.json
